@@ -41,7 +41,7 @@ rag_project/
 └── app.py
 ```
 
-##Instructions
+## Instructions
 
 -  Install all required dependancies via requirements.txt
 -  Create a folder named 'data' and insert your knowledge-base inside it(should be in .txt format)
