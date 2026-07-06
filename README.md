@@ -41,6 +41,13 @@ rag_project/
 └── app.py
 ```
 
+##Instructions
+
+-  Install all required dependancies via requirements.txt
+-  Create a folder named 'data' and insert your knowledge-base inside it(should be in .txt format)
+-  Create a .env folder and put your OpenAI api key there.
+-  Run ingestion.py before running the app.py script
+
 ## End Goal
 
 Answer user questions using only retrieved context from the TXT
