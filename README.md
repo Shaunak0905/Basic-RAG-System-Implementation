@@ -27,8 +27,6 @@ using: - Python 3.11+ - LangChain - OpenAI - FAISS - TXT knowledge base
 ``` text
 rag_project/
 ├── README.md
-├── CLAUDE.md
-├── ARCHITECTURE.md
 ├── requirements.txt
 ├── .env
 ├── data/
